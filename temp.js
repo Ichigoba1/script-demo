@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world
 // @namespace    https://ichigoba1.github.io/
-// @version      0.1
+// @version      0.2
 // @description  new script
 // @author       1chigo
 // @match        *://*
@@ -14,6 +14,6 @@
     function() {
     'use strict';
 
-    console.log("hello world");
+    console.log("hello new world");
     }
 )();
