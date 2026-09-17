@@ -1,0 +1,10 @@
+# NAME: DMM-FANZA
+# DESC: DMM / FANZA 分流规则
+# 用于 Loon Rule Set
+
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmmgames.com
+DOMAIN-SUFFIX,fanza.inc
+DOMAIN-SUFFIX,dmm.inc
